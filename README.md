@@ -1,3 +1,5 @@
+
+Created by Xiyu Cao, Jiaman Li, Shengzhe Hu
 # Airbnb-Analysis
 
 The purpose of the project is to develop a database system on Airbnb of Santa Clara County which contains many information of apartments and houses including host, location, reviews and etc. This project helps us to understand how the database works on Airbnbs or other similar database systems.
@@ -17,3 +19,4 @@ The purpose of the project is to develop a database system on Airbnb of Santa Cl
 6.The administrator can log out the user information.
 
 ## Analysis
+#### Queries, triggers, functions and procedures' code are included in the .sql file
