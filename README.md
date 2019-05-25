@@ -1,8 +1,18 @@
 
-Created by Xiyu Cao, Jiaman Li, Shengzhe Hu
+The project motivation, design process and analysis are contained in the 
+Blog: https://blog.csdn.net/crazzyfish/article/details/90198961
+GitHub link: https://github.com/shengzhehu/Airbnb-Database-Analysis
+
+Data: 'airbnb.csv'
+Modeling notebook: 'Airbnb_price_prediction.ipynb'
+Visualization notebook: 'airbnb analysis-final.ipynb'
+MySQL files: 'airbnb_new.sql'
+
 # Airbnb-Analysis
 
 The purpose of the project is to develop a database system on Airbnb of Santa Clara County and Paris which contains many information of apartments and houses including host, location, reviews and etc. This project helps us to understand how the database works on Airbnbs or other similar database systems. Also, we have done some basic analysis like price prediction and visualization.
+
+
 
 ## Functions:
 
